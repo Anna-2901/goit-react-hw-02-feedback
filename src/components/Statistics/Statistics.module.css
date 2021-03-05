@@ -1,0 +1,12 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.options {
+  margin-bottom: 10px;
+}
+.Counter__controls {
+  margin-left: 20px;
+}

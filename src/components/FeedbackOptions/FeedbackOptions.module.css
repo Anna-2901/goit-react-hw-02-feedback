@@ -1,0 +1,17 @@
+.options {
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
+  margin-left: 20px;
+}
+
+.button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover,
+button:focus {
+  background-color: rgb(169, 144, 209);
+}
